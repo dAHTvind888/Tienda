@@ -1,0 +1,7 @@
+D:\diego\UCB\semestre3 year 2\Programacion 2\Tienda\bin\Debug\Tienda.exe.config
+D:\diego\UCB\semestre3 year 2\Programacion 2\Tienda\bin\Debug\Tienda.exe
+D:\diego\UCB\semestre3 year 2\Programacion 2\Tienda\bin\Debug\Tienda.pdb
+D:\diego\UCB\semestre3 year 2\Programacion 2\Tienda\obj\Debug\Tienda.csproj.AssemblyReference.cache
+D:\diego\UCB\semestre3 year 2\Programacion 2\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+D:\diego\UCB\semestre3 year 2\Programacion 2\Tienda\obj\Debug\Tienda.exe
+D:\diego\UCB\semestre3 year 2\Programacion 2\Tienda\obj\Debug\Tienda.pdb
